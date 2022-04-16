@@ -29,6 +29,8 @@ Screenshot of website :
 
 Implement two knowledgebase plugins (free versions) on your WordPress site. If you are recommending a plugin that costs money, please reach out to a mentor to discuss.
 
+I could not integrate plugins that I found without upgrading to premium, but I have researched about them and I am pretty confident that I can integrate them in a website
+
 4. Micro-tasks 4:
 
 Create a report to present the results of your micro-tasks and your proposal for implementing a knowledgebase on the CHAOSS website. Document the plugins and describe your design choices. Include links to your example implementations on your WordPress site.
